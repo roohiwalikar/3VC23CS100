@@ -1,3 +1,6 @@
-# 3VC23CS100
-this is my first repository
-author roohi
+#include<stdio.h>
+void main()
+{
+  printf("c program");
+  getch();
+}
